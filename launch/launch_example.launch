@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="log_message_templete" name="log_message_templete_node" type="log_message_templete_node" output="screen"/>
+</launch>
